@@ -64,10 +64,3 @@ Method	Endpoint	Description
 1. npm test
 
 
-
-
-## Author
-Adwaitya Sadhukhan
-
-## License
-ISC
