@@ -1,4 +1,4 @@
-# simple-node-angular-full-stack
+# Angular-Node-Full-Stack-Project-MEAN
 
 This is a boilerplate to build a full stack web application using Angular 7, Node JS, Express JS and MongoDB. It is also configured with tslint, typescript .
 
